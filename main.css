@@ -1,0 +1,21 @@
+:root {
+  box-sizing: border-box;
+}
+
+.bing-search {
+  padding: 1em 2em;
+  display: block;
+  margin: 0.5em auto;
+  background-color: rgb(81, 81, 252);
+  color: rgb(230, 230, 230);
+  border: none;
+  border-radius: 0.4em;
+}
+
+.bing-search:hover {
+  background-color: rgb(45, 45, 253);
+}
+
+.bing-search:active {
+  background-color: rgb(23, 23, 146);
+}
